@@ -21,25 +21,24 @@ PromptPal is a beautifully designed AI-powered prompt assistant built with **Rea
 git clone https://github.com/anshu-sharma0/PromptPal
 cd promptpal
 
+
 ### 2. Install dependencies
 
 npm install
-# or
-yarn
 
 
 ### 3. Start the dev server
 
 npm run dev
-# or
-yarn dev
 
+---
 
 ## 🛠 Tech Stack
 - ⚛️ React
 - 💨 Tailwind CSS
 - 🧱 Modular Component Structure
 
+---
 
 ## Modal Functionality
 
